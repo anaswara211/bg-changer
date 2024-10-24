@@ -1,0 +1,25 @@
+.btn{
+    padding: 12px 16px;
+    margin: 5px 8px;
+    border:none;
+    border-radius: 5px;
+    color: white;
+}
+.btn1{
+    background-color: red;
+}
+.btn2{
+    background-color:yellow;
+}.btn3{
+    background-color: blue;
+}.btn4{
+    background-color: green;
+}.btn5{
+    background-color: pink;
+}.btn6{
+    background-color:orange;
+}.btn7{
+    background-color:violet;
+}.btn8{
+    background-color: brown;
+}
